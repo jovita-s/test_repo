@@ -21,7 +21,7 @@
       "type": "line",
       "source": "tilezen",
       "source-layer": "boundaries",
-      "minzoom": 0,
+      "minzoom": 15,
       "maxzoom": 20,
       "filter": ["all", ["==", "kind", "country"]],
       "layout": {

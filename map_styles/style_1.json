@@ -2,7 +2,6 @@
   "version": 8,
   "name": "map_topo",
   "metadata": {"maputnik:renderer": "mbgljs"},
-  "center": [23.871, 55.19114],
   "sources": {
     "tilezen": {
       "type": "vector",
